@@ -1,0 +1,40 @@
+{
+    "pages": [
+        { 
+          "name":"Tensorflow",
+          "link": "https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html",
+          "selectors" : [
+            "#Blog1 > div.tensorsite-container--narrow > div.tensorsite-detail > div.tensorsite-detail__body > p:nth-child(5)",
+            "#Blog1 > div.tensorsite-container--narrow > div.tensorsite-detail > div.tensorsite-detail__body > p:nth-child(8)",
+            "#Blog1 > div.tensorsite-container--narrow > div.tensorsite-detail > div.tensorsite-detail__body > p:nth-child(11)",
+            "#Blog1 > div.tensorsite-container--narrow > div.tensorsite-detail > div.tensorsite-detail__body > p:nth-child(28)"
+          ]
+          
+        },
+        { 
+          "name":"Keras",
+          "link": "https://www.infoworld.com/article/3336192/what-is-keras-the-deep-neural-network-api-explained.html",
+          "selectors" : [
+            "#page-wrapper > section > article > header > section > h3",
+            "#drr-container > p:nth-child(12)"
+            
+          ]
+        },
+        { 
+          "name":"Machine Learning",
+          "link": "https://www.ibm.com/cloud/learn/machine-learning",
+          "selectors" : [
+            "#layout-section-second > div > div > span",
+            "#layout-section-second > div > p:nth-child(13)"
+          ]
+        },
+        { 
+          "name":"AI",
+          "link": "https://www.ibm.com/cloud/learn/machine-learning",
+          "selectors" : [
+            "#layout-section-second > div > div > span",
+            "#layout-section-second > div > p:nth-child(13)"
+          ]
+        }
+      ]
+}

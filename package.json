@@ -1,0 +1,17 @@
+{
+  "name": "proyecto-cblanda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "node-summary": "^1.2.0",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^12.0.1"
+  }
+}
